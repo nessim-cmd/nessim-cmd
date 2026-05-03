@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Nessim+Bennasr+%F0%9F%91%8B;Data+Engineer+%7C+Full-Stack+Dev;Big+Data+%26+AI+Student+%40+Polytech-Intl" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=520&lines=Data+Engineer+%26+Full-Stack+Developer;Building+pipelines+%26+products;Big+Data+%26+AI+%40+Polytech-Intl+Tunis" alt="Typing SVG" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nessim-bennasr)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:bennasrnessim@outlook.com)
-[![Portfolio](https://img.shields.io/badge/EuroFlight_Live-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://euroflights-dashboard-efe9yy9iq2itvfwbrmzbie.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nessim-cmd)
 
 </div>
 
@@ -14,24 +14,36 @@
 
 ## About me
 
-I'm a first-year **Big Data & AI** student at Polytech-Intl (Tunis) with a B.Sc. in Software Engineering. I build production-grade data pipelines and full-stack applications — from real-time Spark pipelines on Databricks to AI-powered voice/chat platforms.
+I'm a **Data Engineer & Full-Stack Developer** based in Tunis, Tunisia.
 
-🔍 **Seeking a remote internship** (Data Engineering or Software Engineering) with a European company — **July–August 2026**
+I work across the full spectrum — from building real-time data pipelines on Databricks and Apache Spark, to shipping production web applications with Next.js and Spring Boot. I care about writing clean, well-documented code and building systems that actually work at scale.
 
-📍 Based in **Tunis, Tunisia** · Available remotely
+Currently deepening my expertise in **Big Data & AI** at Polytech-Intl.
+
+---
+
+## What I build
+
+```
+Data Engineering          →   Spark · Databricks · Delta Lake · Kafka · MLflow · PySpark
+Full-Stack                →   Next.js · TypeScript · Spring Boot · NestJS · Flask
+Databases                 →   PostgreSQL · MongoDB · Prisma ORM
+Infrastructure            →   Docker · Git · Vercel · REST APIs
+```
 
 ---
 
 ## Tech stack
 
-**Data Engineering**
+**Data & AI**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD8?style=flat-square&logo=databricks&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD8?style=flat-square&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
 **Full-Stack**
 
@@ -41,17 +53,6 @@ I'm a first-year **Big Data & AI** student at Polytech-Intl (Tunis) with a B.Sc.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
----
-
-## Featured projects
-
-| Project | Description | Stack | Demo |
-|---|---|---|---|
-| [✈️ EuroFlight](https://github.com/nessim-cmd/euroflights-dashboard) | Real-time European flight analytics — Bronze→Silver→Gold pipeline | Spark · Databricks · Streamlit | [Live](https://euroflights-dashboard-efe9yy9iq2itvfwbrmzbie.streamlit.app/) |
-| [🤖 AI Customer Support](https://github.com/nessim-cmd/AI-Assistant) | Voice + chat AI support platform with agent analytics | Next.js · LiveKit · Groq · Convex | — |
-| [🎥 PrivateLive](https://github.com/nessim-cmd/private-streaming) | Private live streaming rooms with real-time video | Next.js · LiveKit · Prisma | — |
-| [🧵 Factory Manager](https://github.com/nessim-cmd/my-textile-app) | Internal platform for garment factory — HR, stock, attendance | Next.js · PostgreSQL · Clerk | — |
 
 ---
 
@@ -73,5 +74,5 @@ I'm a first-year **Big Data & AI** student at Polytech-Intl (Tunis) with a B.Sc.
 ---
 
 <div align="center">
-<sub>Open to remote opportunities · Always building something</sub>
+<sub>📍 Tunis, Tunisia · Always building something</sub>
 </div>
